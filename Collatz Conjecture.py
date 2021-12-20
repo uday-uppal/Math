@@ -14,6 +14,8 @@ for i in range(1,x,1):
                i=i/2
            elif ((i%2)!=0):
                i=3*i+1
+                
+                pass
         print("True")
         
 
